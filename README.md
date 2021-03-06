@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=jlukas99&label=Views&style=flat-square&color=red)
+# Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=jlukas99&label=Views&style=flat-square&color=blue)
 
 ## About me
 🔭 I’m currently working on startup\
@@ -9,12 +9,13 @@
 ### Front-end
 
 <div style="display: flex;">
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+  <img height="32" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+  <img height="32" src="https://en.wikipedia.org/wiki/File:Dart-logo.png" />
 </div>
 
 ### Back-end
 
 <div style="display: flex;">
-  <img height="32" width="32" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
-  <img height="32" width="32" src="https://www.gstatic.com/devrel-devsite/prod/ve2b3219effe11173b4515247c51c6c16382b215fde591b8f8db0b6d41c561ba8/cloud/images/social-icon-google-cloud-1200-630.png" />
+  <img height="32" src="https://mpng.subpng.com/20180609/fe/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ded510.0849635015285594909127.jpg" />
+  <img height="32" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
 </div>
