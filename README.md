@@ -1,10 +1,10 @@
 # Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=jlukas99&label=Views&style=flat-square&color=blue)
 
 ## About me
-Hi, my name is John, I'm 21 years old and I love extreme sports 🏂 
-create beautiful mobile app designs 📱👨🏻‍🎨 
-and of course then write them 🧑🏻‍💻 
-
+Hi, my name is John, I'm 21 years old and I love extreme sports 🏂</br>
+create beautiful mobile app designs 📱👨🏻‍🎨</br>
+and of course then write them 🧑🏻‍💻</br>
+</br>
 🚀 I’m currently working on our startup with [WeSsli](https://github.com/WeSsli) & [TheSylwio](https://github.com/TheSylwio)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jlukas99&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
