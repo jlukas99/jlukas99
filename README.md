@@ -5,7 +5,7 @@ Hi, my name is John, I'm 21 years old and I love extreme sports 🏂</br>
 create beautiful mobile app designs 📱👨🏻‍🎨</br>
 and of course then write them 🧑🏻‍💻</br>
 </br>
-I put all my projects on the iDapp Studio github, so if you want to see them, please contact me!
+I put all my projects on the iDapp Studio github, so if you want to see them, please contact me!</br>
 </br>
 🚀 I’m currently working on our startup with [WeSsli](https://github.com/WeSsli) & [TheSylwio](https://github.com/TheSylwio)
 
