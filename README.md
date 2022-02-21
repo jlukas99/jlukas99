@@ -5,6 +5,8 @@ Hi, my name is John, I'm 21 years old and I love extreme sports 🏂</br>
 create beautiful mobile app designs 📱👨🏻‍🎨</br>
 and of course then write them 🧑🏻‍💻</br>
 </br>
+I put all my projects on the iDapp Studio github, so if you want to see them, please contact me!
+</br>
 🚀 I’m currently working on our startup with [WeSsli](https://github.com/WeSsli) & [TheSylwio](https://github.com/TheSylwio)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jlukas99&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
