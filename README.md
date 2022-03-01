@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=jlukas99&label=Views&style=flat-square&color=blue)
 
 ## About me
-Hi, my name is John, I'm 21 years old and I love extreme sports 🏂</br>
+Hi, my name is John, I'm 22 years old and I love extreme sports 🏂</br>
 create beautiful mobile app designs 📱👨🏻‍🎨</br>
 and of course then write them 🧑🏻‍💻</br>
 </br>
