@@ -1,45 +1,38 @@
-# Welcome to my GitHub profile! 👋 ![](https://komarev.com/ghpvc/?username=jlukas99&label=Views&style=flat-square&color=blue)
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">I'm 22 years old and I love extreme sports 🏂 create beautiful mobile app designs 📱👨🏻‍🎨 and of course then write them 🧑🏻‍💻</h3>
 
-## About me
-Hi, my name is John, I'm 22 years old and I love extreme sports 🏂</br>
-create beautiful mobile app designs 📱👨🏻‍🎨</br>
-and of course then write them 🧑🏻‍💻</br>
-</br>
-<b>I put all my projects on the iDapp Studio github, so if you want to see them, please contact me!</b></br>
-</br>
-🚀 I’m currently working on our startup with [WeSsli](https://github.com/WeSsli) & [TheSylwio](https://github.com/TheSylwio)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jlukas99&label=Profile%20views&color=0e75b6&style=flat" alt="jlukas99" /> </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jlukas99&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlukas99" alt="jlukas99" /></a> </p>
 
-## Technologies
+<p align="left"> <a href="https://twitter.com/j0hnluk4s" target="blank"><img src="https://img.shields.io/twitter/follow/j0hnluk4s?logo=twitter&style=for-the-badge" alt="j0hnluk4s" /></a> </p>
 
-<div style="display: flex;">
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/dart.svg" /> 
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
-</div>
+- 🔭 I’m currently working on **How well do you know friends?**
 
-### Back-end
+- 💬 Ask me about **flutter, dart, firebase, supabase, admob, stripe**
 
-<div style="display: flex;">
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" />
-</div>
+- 📫 How to reach me **j.lukas@idappstudio.com**
 
-### Services
+- 📄 Know about my experiences [2 years as flutter developer](2 years as flutter developer)
 
-<div style="display: flex;">
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/j0hnluk4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j0hnluk4s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johnlukas99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnlukas99" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8874893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8874893" height="30" width="40" /></a>
+<a href="https://fb.com/jlukas99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jlukas99" height="30" width="40" /></a>
+<a href="https://instagram.com/jlukas99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jlukas99" height="30" width="40" /></a>
+<a href="https://dribbble.com/j0hnluk4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="j0hnluk4s" height="30" width="40" /></a>
+<a href="https://www.behance.net/janlukas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="janlukas" height="30" width="40" /></a>
+<a href="https://medium.com/@lukasjanek99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lukasjanek99" height="30" width="40" /></a>
+<a href="https://discord.gg/JΛNO#0236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JΛNO#0236" height="30" width="40" /></a>
+</p>
 
-### Devices
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<div style="display: flex;">
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/apple-black.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/android-4.svg" />
-  <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlukas99&show_icons=true&locale=en&layout=compact" alt="jlukas99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlukas99&show_icons=true&locale=en" alt="jlukas99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlukas99&" alt="jlukas99" /></p>
