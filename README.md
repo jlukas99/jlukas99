@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/273281204_482970950198043_9075885176365044737_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=oC-vFZvlx2AAX_QxVJS&_nc_ht=scontent-vie1-1.xx&oh=00_AT_uJLZzic4YPFXMajdUmZQznMzhQUNhTylNM4NR3M4E7g&oe=6222C904" alt="cover" />
+<img width="100%" height = "100%" src="cover_linkedin_personal_01.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -16,9 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **How well do you know friends?**
+- 🔭 I’m currently working on **How well do you know friends?**</br>
+  <a href='https://play.google.com/store/apps/details?id=com.idappstudio.jakdobrzesieznacie&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>- Google Play</a></br>
+<a href='https://apps.apple.com/us/app/jak-dobrze-si%C4%99-znacie/id1502092194?l=pl&ls=1'>- App Store</a>
 
-- 💬 Talk to me about **flutter, dart, firebase, supabase, admob, stripe** 
+- 💬 Talk to me about **flutter, dart, firebase, supabase, admob, revenuecat, stripe** 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/jlukas99?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
